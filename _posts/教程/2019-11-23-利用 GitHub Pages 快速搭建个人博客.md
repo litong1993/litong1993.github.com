@@ -22,3 +22,19 @@ tags: 教程
 
 [好看的Jekyll中文主题](https://github.com/kaeyleo/jekyll-theme-H2O)
 
+#### jekyll命令
+
+```
+// 安装jekyll
+gem install bundler jekyll
+// 创建jekyll项目
+jekyll new my-awesome-site //在当前文件夹创建项目
+jekyll new <Dic> 在指定文件夹创建
+// 进入到项目目录
+cd my-awesome-site
+// 编译启动服务
+bundle exec jekyll serve
+// 如果是从网上下载的项目，不包含Gemfile文件，则用这个命令启动
+jekyll serve
+```
+
