@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Flutter之AndroidStudio必备插件'
-date: 2019-11-23
+date: 2019-11-25
 author: 李童
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
 tags: Flutter
