@@ -41,5 +41,9 @@ systemctl disable firewalld
 service network restart
 //重启
 reboot 
+shutdown -r now  
+//关机
+halt
+shutdown -h now  
 ```
 
